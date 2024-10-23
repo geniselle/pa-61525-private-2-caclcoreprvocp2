@@ -13,7 +13,7 @@ used for it or can be found in the default vars/redhat-vars.adoc
 :descripción: Ambiente CACLCOREPRVOCP2
 :ocp_version: 4.14
 
-:ocp_cluster1_name: coclcoreprvocp2
+:ocp_cluster1_name: caclcoreprvocp2
 :ocp_cluster1_base_domain: corp.popular.local
 
 :ocp_bastion_cpu: 4
